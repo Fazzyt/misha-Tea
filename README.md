@@ -2,7 +2,8 @@
 <img src="" width="100"/>
 </div>
 <hr>
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<hr>
 ### :hammer_and_wrench: Языки :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
