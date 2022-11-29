@@ -3,4 +3,4 @@
 ---
 
 ### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=misha576&theme=dark&hide_border=true&border_radius=5&locale=ru&fire=DD0000&ring=48DD4D&stroke=74C8DD)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misha576&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
