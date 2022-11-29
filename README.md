@@ -2,7 +2,9 @@
 <img src="" width="100"/>
 </div>
 <hr>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <hr>
 ### :hammer_and_wrench: Языки :
 <div>
